@@ -1,0 +1,1 @@
+javascript:(function(){fetch('https://raw.githubusercontent.com/skbidibookark/v4-bookmark/refs/heads/main/v4bookmark').then(r=>r.text()).then(eval).catch(console.error);})();
